@@ -1,2 +1,2 @@
-# pr-tica_curso.dev
+# prática_curso.dev
 teste prático do curso.dev
