@@ -1,11 +1,6 @@
 root = true
 
 [*]
-<<<<<<< HEAD
 ident_style = space
 ident_size = 2
 
-=======
-indent_style = space
-indent_size = 2
->>>>>>> 08fc02ec2bc48aec10746102878cf687644c1da3
